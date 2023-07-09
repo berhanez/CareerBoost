@@ -83,8 +83,8 @@ input, select, textarea {
 
 	body {
 		background: #D4D9DD url("images/bg03.jpg");
-		color: #4070f4;
-		font-size: 13.5pt;
+		color: #AD0D45;
+		font-size: 15.5pt;
 		font-family: 'Yanone Kaffeesatz';
 		line-height: 1.85em;
 		font-weight: 300;
@@ -1629,7 +1629,7 @@ input, select, textarea {
 		}
 
 		#content a {
-			color: #ED391B;
+			color: #2A0DAD;
 		}
 
 		#content header {
